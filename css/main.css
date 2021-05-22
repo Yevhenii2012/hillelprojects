@@ -3,3 +3,8 @@
 *:before {
   box-sizing: border-box;
 }
+
+ul li {
+  font-size: 24px;
+  font-weight: 600;
+}
